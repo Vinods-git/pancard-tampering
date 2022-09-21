@@ -1,6 +1,5 @@
-python==3.6.12
 Flask
 imutils
-opencv-python
+opencv-python==4.4.0.46
 Pillow
 scikit-image
