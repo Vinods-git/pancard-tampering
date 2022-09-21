@@ -1,3 +1,4 @@
+python==3.6.12
 Flask
 imutils
 opencv-python
